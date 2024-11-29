@@ -1,5 +1,7 @@
 # VRHorrorMed5PIT
- 
+
+DUE TO THE PROJECT BEING TO BIG IT HAS BEEN UPLOADED WITH THE REPORT ITSELF AS A ZIPFILE
+
 VR horror game
 PIT Miniproject
 By Frederik Møller (Group 5)
@@ -15,6 +17,13 @@ A procedural terrain painter package was used from the asset store to paint the 
 In the game, you can move the player using the left joystick on the quest controller and drive around in your playspace.
 Two hand models have been implemented to simulate your hand and immerse the player. The hand models also give anchor points to the grab interactor so it knows where to place the item.
 When the player grabs or lets go of an item, the controller that picked it up will give the user haptic feedback as a slight vibration.
+
+Requirements to use:
+It is made in Unity 2022.3.4f, and using that version of Unity is recommended. Furthermore, different asset packs and packages might be needed to run the game. These can be found in the external resources section.
+Also, there might be an issue with the hut models not being sent.
+Otherwise, the game will run on a decent PC via a link connection to Quest 2.
+The game should also work on the Quest 3 and pro versions, but this has not been tested.
+
 
 Timetable:
 The time used to create the different parts of the project can be seen below:
